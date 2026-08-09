@@ -3,6 +3,8 @@
 📊 An interactive grocery sales analysis dashboard built using Power BI.
 
 ## 🎯 Project Overview
+ <img width="1323" height="740" alt="Blinkit sales dashboard" src="https://github.com/user-attachments/assets/036620dd-854d-4826-a83e-a768fe67cc18" />
+
 
 This project analyzes Blinkit grocery sales data to understand sales,
 profit, orders, product categories, outlet performance, payment modes,
