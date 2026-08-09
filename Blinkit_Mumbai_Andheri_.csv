@@ -1,0 +1,501 @@
+Order_ID,Order_Date,City,Area,Outlet_ID,Outlet_Name,Outlet_Location,Outlet_Size,Category,Brand,MRP,Discount_%,Selling_Price,Quantity,Sales,Cost,Profit,Payment_Mode,Delivery_Time_Minutes,Rating
+ORD0001,18-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,Amul,127,20,101.6,1,101.6,67.51,34.09,Cash,8,3.9
+ORD0002,16-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Dairy,Britannia,85,10,76.5,2,153,116.31,36.69,UPI,30,4.5
+ORD0003,06-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Dairy,Parle,163,5,154.85,3,464.55,328.87,135.68,Cash,10,4.5
+ORD0004,08-06-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Frozen Foods,Aashirvaad,240,5,228,2,456,347.87,108.13,Credit Card,25,4.5
+ORD0005,28-06-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Dairy,Parle,235,15,199.75,4,799,646.29,152.71,Debit Card,20,4.7
+ORD0006,12-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Snacks,MDH,361,5,342.95,2,685.9,516.06,169.84,Debit Card,8,5
+ORD0007,31-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Frozen Foods,MDH,441,25,330.75,6,1984.5,1424.92,559.58,UPI,10,4.9
+ORD0008,21-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Frozen Foods,Parle,406,5,385.7,1,385.7,307.11,78.59,Debit Card,35,4.2
+ORD0009,25-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Snacks,Britannia,231,10,207.9,2,415.8,311.33,104.47,Debit Card,22,4.9
+ORD0010,13-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Bakery,Parle,91,10,81.9,8,655.2,478.51,176.69,Debit Card,20,4.6
+ORD0011,01-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Beverages,Amul,168,10,151.2,2,302.4,207.22,95.18,Debit Card,30,4
+ORD0012,06-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Household,Fortune,52,10,46.8,7,327.6,247.97,79.63,UPI,25,4.9
+ORD0013,04-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Bakery,Amul,250,20,200,7,1400,1020.35,379.65,Cash,10,5
+ORD0014,27-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Snacks,Tata,133,5,126.35,6,758.1,583.85,174.25,Credit Card,30,3.8
+ORD0015,30-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Household,MDH,364,20,291.2,3,873.6,678.68,194.92,UPI,10,4.8
+ORD0016,27-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Household,Parle,295,20,236,5,1180,787.27,392.73,Debit Card,40,4
+ORD0017,20-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Grocery,Tata,155,25,116.25,6,697.5,473.83,223.67,Credit Card,28,4.2
+ORD0018,06-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Beverages,Aashirvaad,232,10,208.8,6,1252.8,973.79,279.01,Cash,15,4.4
+ORD0019,01-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Beverages,Nestle,424,5,402.8,1,402.8,325.47,77.33,Debit Card,40,5
+ORD0020,20-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Beverages,MDH,91,10,81.9,2,163.8,113.9,49.9,UPI,25,4.9
+ORD0021,21-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Snacks,Aashirvaad,459,5,436.05,2,872.1,725.55,146.55,Credit Card,10,4.8
+ORD0022,13-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Small,Fruits,Fortune,287,20,229.6,2,459.2,365.05,94.15,Debit Card,35,4
+ORD0023,03-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Fruits,Tata,292,15,248.2,3,744.6,565.7,178.9,Cash,22,5
+ORD0024,16-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Beverages,Nestle,472,10,424.8,1,424.8,297.52,127.28,Credit Card,28,4.3
+ORD0025,13-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Snacks,Fortune,81,15,68.85,8,550.8,431,119.8,UPI,25,4.7
+ORD0026,08-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Dairy,Amul,52,10,46.8,3,140.4,95.23,45.17,Credit Card,35,4.4
+ORD0027,12-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Dairy,MDH,297,5,282.15,1,282.15,197.42,84.73,UPI,10,4.3
+ORD0028,26-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Frozen Foods,Britannia,308,25,231,4,924,728.62,195.38,Credit Card,28,4.9
+ORD0029,11-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Household,Tata,480,20,384,3,1152,844.79,307.21,Cash,22,3.9
+ORD0030,14-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Household,Fortune,451,5,428.45,3,1285.35,1077,208.35,Credit Card,12,5
+ORD0031,11-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Beverages,Fortune,432,5,410.4,7,2872.8,2375.77,497.03,Debit Card,28,4.3
+ORD0032,04-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Small,Household,MDH,150,15,127.5,6,765,511.36,253.64,Debit Card,40,3.8
+ORD0033,17-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Beverages,Tata,314,25,235.5,5,1177.5,886.01,291.49,UPI,18,4.1
+ORD0034,23-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Bakery,Fortune,188,10,169.2,7,1184.4,971.11,213.29,Debit Card,40,4.2
+ORD0035,10-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Dairy,Parle,79,10,71.1,7,497.7,412.62,85.08,UPI,30,4.8
+ORD0036,22-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Grocery,Fortune,185,5,175.75,8,1406,917.15,488.85,UPI,28,4.7
+ORD0037,21-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Grocery,Britannia,132,15,112.2,1,112.2,76.99,35.21,Credit Card,25,4.4
+ORD0038,10-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Fruits,Britannia,188,15,159.8,1,159.8,135.65,24.15,Debit Card,15,4.9
+ORD0039,11-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Grocery,Britannia,387,20,309.6,8,2476.8,1880.34,596.46,Cash,20,4
+ORD0040,04-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Grocery,Aashirvaad,257,15,218.45,1,218.45,178.56,39.89,Cash,8,3.9
+ORD0041,27-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Fruits,MDH,495,25,371.25,5,1856.25,1428.86,427.39,Cash,12,4.1
+ORD0042,21-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Beverages,Amul,184,15,156.4,6,938.4,792.5,145.9,Credit Card,15,4.2
+ORD0043,09-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Beverages,Britannia,221,20,176.8,2,353.6,263.41,90.19,UPI,10,4.1
+ORD0044,18-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Beverages,Tata,123,20,98.4,1,98.4,71.71,26.69,Cash,35,4.9
+ORD0045,08-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Snacks,Amul,249,15,211.65,8,1693.2,1151.19,542.01,Debit Card,40,4.6
+ORD0046,30-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Beverages,Tata,121,25,90.75,1,90.75,73.99,16.76,UPI,8,4
+ORD0047,10-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Beverages,MDH,103,20,82.4,8,659.2,502.12,157.08,Credit Card,8,4.3
+ORD0048,17-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Frozen Foods,Parle,433,25,324.75,2,649.5,507.82,141.68,UPI,18,4.1
+ORD0049,20-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Grocery,Amul,168,20,134.4,8,1075.2,880.7,194.5,Cash,10,4.5
+ORD0050,16-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Grocery,Tata,180,15,153,3,459,299.49,159.51,Cash,35,4.4
+ORD0051,31-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Beverages,Parle,196,20,156.8,8,1254.4,932.36,322.04,UPI,25,3.8
+ORD0052,10-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Beverages,Tata,89,25,66.75,8,534,453.26,80.74,UPI,12,4.7
+ORD0053,30-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Beverages,MDH,234,10,210.6,5,1053,871.22,181.78,Debit Card,22,3.8
+ORD0054,06-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Household,Aashirvaad,301,20,240.8,7,1685.6,1197.43,488.17,Credit Card,10,4.8
+ORD0055,20-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Fruits,Parle,216,15,183.6,7,1285.2,866.24,418.96,Credit Card,20,3.9
+ORD0056,20-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Fruits,Parle,495,25,371.25,2,742.5,536.19,206.31,UPI,8,4.8
+ORD0057,22-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Household,Britannia,375,10,337.5,4,1350,1139.68,210.32,Credit Card,22,4.9
+ORD0058,13-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Bakery,MDH,498,25,373.5,4,1494,1186.11,307.89,Cash,35,4.8
+ORD0059,17-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Grocery,Parle,75,25,56.25,3,168.75,115.45,53.3,Credit Card,40,4.7
+ORD0060,21-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Dairy,Fortune,257,10,231.3,5,1156.5,863.49,293.01,Cash,10,4
+ORD0061,26-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Snacks,Britannia,331,10,297.9,8,2383.2,1981.04,402.16,Cash,10,4
+ORD0062,26-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Fruits,Aashirvaad,96,15,81.6,4,326.4,236.2,90.2,Debit Card,22,4.7
+ORD0063,08-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Household,Fortune,242,15,205.7,6,1234.2,987.88,246.32,Cash,10,4.1
+ORD0064,21-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Snacks,Amul,246,20,196.8,8,1574.4,1159.34,415.06,Debit Card,40,4.7
+ORD0065,16-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Frozen Foods,Britannia,350,20,280,1,280,186.1,93.9,UPI,15,4
+ORD0066,11-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Snacks,Britannia,399,5,379.05,8,3032.4,2022.61,1009.79,UPI,35,4.7
+ORD0067,29-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Dairy,Parle,370,15,314.5,7,2201.5,1738.56,462.94,Cash,22,4.1
+ORD0068,13-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Beverages,MDH,50,5,47.5,5,237.5,201.7,35.8,Cash,28,4.1
+ORD0069,08-05-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Bakery,Tata,410,15,348.5,1,348.5,228.04,120.46,Credit Card,15,4.6
+ORD0070,18-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Bakery,Britannia,166,20,132.8,1,132.8,104.8,28,UPI,18,4.7
+ORD0071,21-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Beverages,MDH,84,10,75.6,8,604.8,510.43,94.37,Cash,18,4.7
+ORD0072,27-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Bakery,Amul,105,25,78.75,8,630,486.37,143.63,Cash,22,3.9
+ORD0073,16-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Bakery,MDH,355,10,319.5,7,2236.5,1476.91,759.59,Credit Card,40,3.9
+ORD0074,15-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Frozen Foods,Amul,134,15,113.9,4,455.6,313.04,142.56,Credit Card,35,4.7
+ORD0075,21-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Dairy,Nestle,219,20,175.2,3,525.6,353.09,172.51,Debit Card,10,4.5
+ORD0076,21-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Fruits,MDH,244,15,207.4,5,1037,844.53,192.47,Cash,20,4.4
+ORD0077,02-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Bakery,Britannia,148,15,125.8,6,754.8,601.93,152.87,Debit Card,8,4.3
+ORD0078,17-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Household,Nestle,82,5,77.9,5,389.5,268.36,121.14,Credit Card,20,4.9
+ORD0079,18-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Dairy,Amul,72,15,61.2,6,367.2,306.56,60.64,Cash,10,4.4
+ORD0080,07-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Frozen Foods,Fortune,447,20,357.6,5,1788,1488.88,299.12,UPI,40,4.2
+ORD0081,28-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Dairy,Britannia,360,10,324,6,1944,1598.45,345.55,Debit Card,12,4.1
+ORD0082,25-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Bakery,Tata,382,5,362.9,8,2903.2,2207.94,695.26,UPI,18,4.5
+ORD0083,25-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Fortune,99,20,79.2,8,633.6,537.09,96.51,Debit Card,25,4.5
+ORD0084,17-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Grocery,Parle,432,25,324,2,648,522.26,125.74,Credit Card,18,4.7
+ORD0085,09-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Beverages,Nestle,274,10,246.6,3,739.8,517.17,222.63,UPI,22,4.1
+ORD0086,26-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Frozen Foods,Amul,309,25,231.75,4,927,722.99,204.01,UPI,8,4.4
+ORD0087,17-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Dairy,Amul,480,20,384,6,2304,1516.2,787.8,Cash,30,5
+ORD0088,15-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Grocery,Amul,149,5,141.55,6,849.3,639.13,210.17,UPI,35,4.5
+ORD0089,06-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Beverages,Parle,229,10,206.1,1,206.1,149.16,56.94,UPI,30,4.7
+ORD0090,06-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Grocery,Tata,467,5,443.65,6,2661.9,1947.98,713.92,Cash,8,4.8
+ORD0091,12-04-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Snacks,Tata,297,5,282.15,7,1975.05,1323.83,651.22,Cash,22,4.6
+ORD0092,21-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Household,Aashirvaad,195,15,165.75,7,1160.25,975.35,184.9,Debit Card,8,4.8
+ORD0093,22-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Bakery,Fortune,379,10,341.1,7,2387.7,1899.67,488.03,Debit Card,10,4.8
+ORD0094,03-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Small,Fruits,Fortune,345,15,293.25,8,2346,1887.62,458.38,Debit Card,10,4.5
+ORD0095,14-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Snacks,Tata,427,25,320.25,3,960.75,652.52,308.23,UPI,22,4.4
+ORD0096,04-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Fruits,Aashirvaad,204,10,183.6,1,183.6,155.16,28.44,UPI,40,4.5
+ORD0097,20-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Snacks,Britannia,377,10,339.3,7,2375.1,1835.82,539.28,UPI,22,4.9
+ORD0098,19-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Fruits,Nestle,246,15,209.1,2,418.2,284.33,133.87,UPI,22,4.5
+ORD0099,05-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Bakery,Nestle,484,15,411.4,7,2879.8,2049.39,830.41,Debit Card,28,4.3
+ORD0100,25-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Frozen Foods,Fortune,51,25,38.25,8,306,227.37,78.63,Debit Card,22,3.9
+ORD0101,24-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Fruits,Amul,233,20,186.4,6,1118.4,747.47,370.93,Cash,10,4.9
+ORD0102,10-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Snacks,Amul,448,25,336,2,672,444.09,227.91,UPI,30,4.7
+ORD0103,12-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Beverages,Tata,149,10,134.1,8,1072.8,759.09,313.71,Credit Card,30,4.7
+ORD0104,27-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Grocery,MDH,215,25,161.25,5,806.25,670,136.25,Cash,30,4.1
+ORD0105,16-02-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Snacks,Parle,171,15,145.35,6,872.1,573.29,298.81,Credit Card,22,4
+ORD0106,03-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Dairy,Parle,108,25,81,1,81,62.96,18.04,Debit Card,40,4.8
+ORD0107,21-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Beverages,Fortune,242,15,205.7,3,617.1,445.58,171.52,UPI,18,4.8
+ORD0108,09-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Snacks,Parle,208,25,156,6,936,745.62,190.38,Debit Card,22,4.4
+ORD0109,12-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Fruits,Amul,117,20,93.6,4,374.4,289.23,85.17,Credit Card,18,3.9
+ORD0110,31-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Beverages,Nestle,323,10,290.7,7,2034.9,1560.19,474.71,Debit Card,12,4
+ORD0111,13-06-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Grocery,Aashirvaad,412,10,370.8,8,2966.4,1985,981.4,Credit Card,8,3.9
+ORD0112,13-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Frozen Foods,Britannia,229,25,171.75,8,1374,1058.5,315.5,Cash,8,3.9
+ORD0113,15-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Fruits,Britannia,62,20,49.6,3,148.8,103.79,45.01,Cash,22,4
+ORD0114,14-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Grocery,Tata,379,25,284.25,7,1989.75,1617.02,372.73,Credit Card,35,3.9
+ORD0115,22-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Frozen Foods,Tata,416,25,312,1,312,226.21,85.79,Debit Card,12,4.1
+ORD0116,27-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Fruits,Parle,183,10,164.7,1,164.7,111.12,53.58,Debit Card,35,4.7
+ORD0117,10-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Snacks,Parle,185,15,157.25,4,629,419.6,209.4,Cash,40,4
+ORD0118,26-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Beverages,Aashirvaad,432,15,367.2,4,1468.8,1213.28,255.52,Debit Card,25,4.8
+ORD0119,01-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Britannia,489,5,464.55,7,3251.85,2735.26,516.59,Debit Card,30,4.5
+ORD0120,28-01-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Snacks,Nestle,137,10,123.3,1,123.3,80.81,42.49,Cash,40,3.8
+ORD0121,17-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Household,Britannia,120,5,114,2,228,181.8,46.2,UPI,40,4.9
+ORD0122,09-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Dairy,Parle,176,10,158.4,4,633.6,426.03,207.57,Debit Card,10,4
+ORD0123,06-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Grocery,Parle,200,15,170,6,1020,749.45,270.55,UPI,40,4.7
+ORD0124,08-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Fruits,Aashirvaad,443,25,332.25,8,2658,2180.29,477.71,UPI,22,4.4
+ORD0125,25-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Dairy,Parle,227,20,181.6,1,181.6,137.58,44.02,Cash,22,3.8
+ORD0126,25-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Snacks,MDH,197,5,187.15,1,187.15,134.67,52.48,Credit Card,28,4.1
+ORD0127,29-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Dairy,MDH,195,10,175.5,4,702,526.26,175.74,UPI,35,4.2
+ORD0128,15-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Household,Britannia,255,20,204,2,408,299.65,108.35,Credit Card,18,4.3
+ORD0129,11-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Frozen Foods,Fortune,306,10,275.4,7,1927.8,1631.85,295.95,UPI,20,4.5
+ORD0130,23-04-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Grocery,Britannia,129,20,103.2,6,619.2,423.48,195.72,Cash,20,4.4
+ORD0131,30-06-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Snacks,Fortune,309,10,278.1,5,1390.5,987.67,402.83,Cash,40,4.2
+ORD0132,18-02-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Dairy,Fortune,228,10,205.2,4,820.8,587.38,233.42,UPI,15,4.3
+ORD0133,20-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Dairy,Parle,456,15,387.6,5,1938,1428.28,509.72,Cash,22,4.4
+ORD0134,11-06-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Frozen Foods,Amul,254,20,203.2,4,812.8,609.68,203.12,Cash,18,4.5
+ORD0135,31-05-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Bakery,Britannia,52,10,46.8,7,327.6,258.88,68.72,Cash,35,4
+ORD0136,29-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Bakery,Britannia,282,20,225.6,6,1353.6,950.18,403.42,Debit Card,40,4.7
+ORD0137,09-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Snacks,Nestle,178,20,142.4,8,1139.2,844.19,295.01,UPI,22,4.8
+ORD0138,21-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Household,Tata,69,15,58.65,4,234.6,160.04,74.56,Debit Card,28,4
+ORD0139,16-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Frozen Foods,Britannia,312,5,296.4,6,1778.4,1341.51,436.89,Cash,22,4.4
+ORD0140,06-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Bakery,Aashirvaad,423,25,317.25,6,1903.5,1480,423.5,UPI,8,3.9
+ORD0141,19-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Bakery,Britannia,371,15,315.35,5,1576.75,1059.34,517.41,Debit Card,25,4.1
+ORD0142,24-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Beverages,Fortune,447,5,424.65,4,1698.6,1263.47,435.13,Credit Card,35,4.6
+ORD0143,01-05-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Beverages,Parle,289,15,245.65,3,736.95,593.96,142.99,Debit Card,35,4.1
+ORD0144,13-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Beverages,Parle,397,10,357.3,8,2858.4,1859.5,998.9,Credit Card,25,4.4
+ORD0145,19-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Fruits,Tata,376,5,357.2,6,2143.2,1458.56,684.64,Credit Card,12,4.4
+ORD0146,23-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Grocery,Parle,374,25,280.5,1,280.5,219.2,61.3,UPI,30,4
+ORD0147,23-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Snacks,Tata,145,20,116,6,696,561.66,134.34,Credit Card,15,4.4
+ORD0148,30-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Dairy,Parle,321,5,304.95,8,2439.6,1913.25,526.35,Debit Card,15,4.8
+ORD0149,06-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Frozen Foods,Britannia,302,25,226.5,1,226.5,169.17,57.33,Debit Card,12,4.4
+ORD0150,08-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,MDH,132,15,112.2,8,897.6,708.37,189.23,Credit Card,22,4.3
+ORD0151,12-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Household,Tata,142,15,120.7,1,120.7,78.95,41.75,Debit Card,25,4.7
+ORD0152,28-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Household,Nestle,67,10,60.3,7,422.1,327.15,94.95,Debit Card,28,4.5
+ORD0153,22-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Grocery,Parle,195,20,156,6,936,687.47,248.53,Credit Card,25,4.3
+ORD0154,17-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Dairy,Nestle,189,25,141.75,6,850.5,718.67,131.83,Cash,20,4.7
+ORD0155,22-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Fruits,Aashirvaad,350,5,332.5,1,332.5,242.65,89.85,Credit Card,10,3.8
+ORD0156,20-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Bakery,Fortune,470,20,376,1,376,303.73,72.27,UPI,15,3.8
+ORD0157,10-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Dairy,Amul,370,10,333,2,666,521.29,144.71,Credit Card,12,4.7
+ORD0158,09-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Fruits,Aashirvaad,413,15,351.05,5,1755.25,1205.78,549.47,UPI,25,4.5
+ORD0159,14-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Dairy,Amul,472,5,448.4,7,3138.8,2401.38,737.42,Debit Card,30,4.5
+ORD0160,01-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Snacks,Amul,293,20,234.4,2,468.8,312.5,156.3,Debit Card,8,3.8
+ORD0161,03-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Fruits,Parle,489,5,464.55,4,1858.2,1530.99,327.21,Cash,25,4.7
+ORD0162,22-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Frozen Foods,MDH,75,15,63.75,3,191.25,152.22,39.03,Credit Card,8,4.7
+ORD0163,21-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Snacks,MDH,81,5,76.95,2,153.9,112.01,41.89,UPI,20,4.2
+ORD0164,07-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Household,Fortune,422,20,337.6,8,2700.8,2121.14,579.66,Debit Card,25,4.3
+ORD0165,16-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Household,Amul,189,25,141.75,6,850.5,602.56,247.94,Cash,30,4.8
+ORD0166,07-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Beverages,MDH,269,10,242.1,7,1694.7,1232.85,461.85,Credit Card,40,3.8
+ORD0167,11-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Snacks,Fortune,187,20,149.6,3,448.8,344.38,104.42,Credit Card,28,4.6
+ORD0168,05-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Beverages,Britannia,227,25,170.25,2,340.5,258.1,82.4,Credit Card,30,3.9
+ORD0169,03-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Frozen Foods,Tata,288,10,259.2,5,1296,994.39,301.61,Credit Card,10,4.1
+ORD0170,31-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Beverages,Britannia,316,15,268.6,6,1611.6,1201.15,410.45,Cash,10,4
+ORD0171,13-05-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Beverages,Amul,235,25,176.25,6,1057.5,772.5,285,Debit Card,20,4.8
+ORD0172,02-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,Parle,373,20,298.4,2,596.8,406.56,190.24,UPI,10,3.8
+ORD0173,13-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Dairy,MDH,298,25,223.5,4,894,627.87,266.13,Cash,18,4.8
+ORD0174,14-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,MDH,152,10,136.8,7,957.6,638.46,319.14,Debit Card,10,4.8
+ORD0175,01-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Dairy,Aashirvaad,111,5,105.45,5,527.25,376.32,150.93,Cash,25,4.8
+ORD0176,07-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Fruits,Amul,170,10,153,3,459,301.9,157.1,UPI,18,4.7
+ORD0177,02-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Grocery,MDH,78,5,74.1,3,222.3,158.62,63.68,UPI,25,4.2
+ORD0178,13-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Beverages,Fortune,249,5,236.55,6,1419.3,1059.17,360.13,UPI,25,4.7
+ORD0179,26-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Household,Fortune,459,5,436.05,3,1308.15,1093.01,215.14,Debit Card,10,4.9
+ORD0180,28-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Beverages,MDH,481,5,456.95,2,913.9,676.71,237.19,UPI,35,4.2
+ORD0181,22-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Frozen Foods,Fortune,163,5,154.85,3,464.55,368.27,96.28,Credit Card,22,4.3
+ORD0182,12-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Frozen Foods,Tata,63,15,53.55,5,267.75,191.95,75.8,Credit Card,25,4.9
+ORD0183,21-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Frozen Foods,Parle,128,25,96,1,96,74.52,21.48,UPI,18,4.7
+ORD0184,25-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Grocery,Aashirvaad,271,15,230.35,4,921.4,769.38,152.02,Cash,8,4.8
+ORD0185,29-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Snacks,MDH,123,5,116.85,8,934.8,758.5,176.3,UPI,28,4.1
+ORD0186,27-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Snacks,Fortune,272,5,258.4,7,1808.8,1254.68,554.12,Cash,40,4
+ORD0187,14-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Snacks,Britannia,90,5,85.5,8,684,548.74,135.26,Credit Card,15,3.8
+ORD0188,13-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Dairy,Amul,258,5,245.1,6,1470.6,1054.48,416.12,Debit Card,25,4
+ORD0189,29-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Fruits,Nestle,177,10,159.3,6,955.8,628.28,327.52,Debit Card,28,3.9
+ORD0190,08-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Fruits,Parle,415,10,373.5,6,2241,1805.85,435.15,UPI,40,4.4
+ORD0191,23-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Snacks,Fortune,63,25,47.25,3,141.75,92.72,49.03,UPI,18,4.1
+ORD0192,03-06-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Frozen Foods,Britannia,59,5,56.05,4,224.2,157.45,66.75,Debit Card,10,4.2
+ORD0193,30-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Grocery,Tata,417,10,375.3,1,375.3,264.44,110.86,UPI,10,4.3
+ORD0194,07-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Frozen Foods,Aashirvaad,327,25,245.25,4,981,806.6,174.4,Cash,8,4.9
+ORD0195,14-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Household,Aashirvaad,405,20,324,1,324,236.24,87.76,Cash,20,4.7
+ORD0196,14-01-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Snacks,Nestle,461,15,391.85,7,2742.95,2247.92,495.03,Cash,22,4.6
+ORD0197,21-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Fruits,Britannia,236,5,224.2,3,672.6,446.51,226.09,Cash,22,5
+ORD0198,14-06-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Grocery,Parle,374,5,355.3,1,355.3,233.39,121.91,UPI,30,3.9
+ORD0199,11-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Dairy,Parle,316,5,300.2,7,2101.4,1465.37,636.03,Credit Card,35,4
+ORD0200,01-06-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Snacks,MDH,354,25,265.5,5,1327.5,885.3,442.2,UPI,28,4
+ORD0201,23-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Grocery,MDH,258,25,193.5,5,967.5,681.92,285.58,Cash,35,4.3
+ORD0202,19-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Frozen Foods,MDH,413,15,351.05,8,2808.4,2326.37,482.03,Credit Card,8,4.1
+ORD0203,12-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Household,Fortune,146,25,109.5,7,766.5,646.87,119.63,Cash,20,4.5
+ORD0204,06-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Dairy,Nestle,188,15,159.8,4,639.2,453.26,185.94,Debit Card,35,3.9
+ORD0205,28-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Beverages,Fortune,477,20,381.6,6,2289.6,1825,464.6,Debit Card,20,4.6
+ORD0206,13-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Frozen Foods,Parle,395,10,355.5,5,1777.5,1447.31,330.19,Cash,22,4.8
+ORD0207,27-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Bakery,Parle,260,25,195,2,390,292.33,97.67,UPI,22,4.8
+ORD0208,15-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Bakery,Nestle,197,15,167.45,5,837.25,603.31,233.94,UPI,40,4.8
+ORD0209,19-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Bakery,Aashirvaad,244,20,195.2,5,976,670.36,305.64,Cash,10,4.8
+ORD0210,22-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Fruits,Amul,215,25,161.25,4,645,542.93,102.07,UPI,18,4.5
+ORD0211,22-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Bakery,Aashirvaad,203,25,152.25,5,761.25,576.8,184.45,Debit Card,20,3.8
+ORD0212,26-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Household,Aashirvaad,281,5,266.95,2,533.9,403.12,130.78,Cash,15,5
+ORD0213,24-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Household,Nestle,255,20,204,6,1224,964.9,259.1,Credit Card,10,4.8
+ORD0214,11-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Snacks,Parle,139,5,132.05,5,660.25,520.26,139.99,Cash,28,4.9
+ORD0215,11-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Fruits,Aashirvaad,143,5,135.85,2,271.7,195.8,75.9,UPI,8,4.2
+ORD0216,31-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Fruits,Britannia,52,15,44.2,7,309.4,253.22,56.18,Cash,25,4.7
+ORD0217,16-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Dairy,Fortune,186,25,139.5,3,418.5,320.11,98.39,Cash,28,4.7
+ORD0218,14-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Frozen Foods,Aashirvaad,64,5,60.8,2,121.6,83.19,38.41,UPI,35,3.8
+ORD0219,13-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Grocery,Tata,215,10,193.5,4,774,557.88,216.12,UPI,20,4
+ORD0220,12-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Fruits,MDH,247,5,234.65,1,234.65,162.85,71.8,UPI,30,4.1
+ORD0221,27-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Bakery,Parle,72,10,64.8,3,194.4,138.6,55.8,Debit Card,10,4.1
+ORD0222,13-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Frozen Foods,Amul,395,25,296.25,4,1185,868.25,316.75,Cash,10,4
+ORD0223,16-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Household,Tata,244,10,219.6,1,219.6,185.41,34.19,Credit Card,28,4.8
+ORD0224,31-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Beverages,Aashirvaad,256,5,243.2,2,486.4,357.24,129.16,Cash,25,4.1
+ORD0225,29-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Fortune,273,5,259.35,5,1296.75,1015.17,281.58,UPI,15,4.1
+ORD0226,03-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Household,Nestle,334,20,267.2,8,2137.6,1746.98,390.62,Cash,40,4.3
+ORD0227,28-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Snacks,Parle,156,15,132.6,8,1060.8,796.62,264.18,Debit Card,30,5
+ORD0228,01-02-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Dairy,Parle,176,20,140.8,4,563.2,380.22,182.98,Debit Card,8,4.6
+ORD0229,23-01-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Snacks,Britannia,124,15,105.4,1,105.4,76.73,28.67,Credit Card,15,4.6
+ORD0230,18-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Dairy,Parle,84,25,63,6,378,306.57,71.43,UPI,15,4.1
+ORD0231,29-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Snacks,Parle,194,15,164.9,7,1154.3,945.22,209.08,Cash,8,4.2
+ORD0232,13-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Dairy,Fortune,261,5,247.95,8,1983.6,1387.89,595.71,Credit Card,10,4.1
+ORD0233,05-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Bakery,Britannia,425,10,382.5,1,382.5,279.58,102.92,Credit Card,12,4.3
+ORD0234,28-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Frozen Foods,Parle,332,15,282.2,3,846.6,645.88,200.72,Debit Card,35,4.6
+ORD0235,30-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Fruits,Britannia,50,5,47.5,5,237.5,197.18,40.32,UPI,8,4.7
+ORD0236,11-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Beverages,Parle,447,15,379.95,2,759.9,557.35,202.55,UPI,20,4.9
+ORD0237,23-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Beverages,Aashirvaad,276,15,234.6,8,1876.8,1410.85,465.95,Cash,25,4.7
+ORD0238,11-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Beverages,Parle,409,25,306.75,5,1533.75,1050.47,483.28,Cash,8,4
+ORD0239,05-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Frozen Foods,MDH,260,5,247,4,988,767.97,220.03,Cash,40,4.1
+ORD0240,31-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Grocery,Fortune,404,20,323.2,3,969.6,811.72,157.88,Cash,30,4.5
+ORD0241,13-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Snacks,MDH,372,5,353.4,7,2473.8,1984.24,489.56,Debit Card,15,3.9
+ORD0242,16-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Grocery,Britannia,56,15,47.6,8,380.8,263.24,117.56,UPI,40,4.2
+ORD0243,03-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Snacks,Tata,132,15,112.2,8,897.6,667.57,230.03,UPI,8,4.4
+ORD0244,06-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Frozen Foods,Britannia,92,15,78.2,5,391,262.66,128.34,Credit Card,8,4.2
+ORD0245,21-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Fruits,Amul,379,15,322.15,5,1610.75,1257.37,353.38,Debit Card,12,4.2
+ORD0246,21-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Household,Aashirvaad,376,25,282,3,846,567.19,278.81,Cash,35,4.8
+ORD0247,05-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Beverages,Amul,167,15,141.95,3,425.85,323.74,102.11,UPI,10,4.5
+ORD0248,10-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Dairy,Fortune,75,10,67.5,8,540,396.68,143.32,Cash,12,4
+ORD0249,25-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Household,Amul,95,5,90.25,8,722,538.53,183.47,UPI,30,4.8
+ORD0250,15-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Bakery,Nestle,267,10,240.3,5,1201.5,798.28,403.22,UPI,25,3.8
+ORD0251,24-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Household,Britannia,421,10,378.9,7,2652.3,1880.87,771.43,Debit Card,10,4.5
+ORD0252,05-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Dairy,Amul,285,20,228,3,684,577.89,106.11,Credit Card,30,4.6
+ORD0253,15-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Grocery,Nestle,342,20,273.6,6,1641.6,1224.87,416.73,UPI,15,4.1
+ORD0254,06-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Bakery,Nestle,403,5,382.85,3,1148.55,898.28,250.27,Cash,30,4.3
+ORD0255,21-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Dairy,Britannia,108,10,97.2,3,291.6,246.02,45.58,Credit Card,35,3.9
+ORD0256,28-04-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Dairy,Tata,393,15,334.05,8,2672.4,1858.38,814.02,Debit Card,35,3.9
+ORD0257,12-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Frozen Foods,Aashirvaad,118,25,88.5,2,177,137.23,39.77,Cash,15,4.5
+ORD0258,13-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Fruits,Amul,120,15,102,1,102,74.55,27.45,Cash,25,4.2
+ORD0259,01-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Household,Nestle,268,5,254.6,4,1018.4,776.62,241.78,UPI,18,3.9
+ORD0260,12-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Household,Tata,312,25,234,6,1404,1115.28,288.72,Credit Card,28,4.2
+ORD0261,19-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Frozen Foods,Amul,107,5,101.65,4,406.6,284.99,121.61,Debit Card,10,4.7
+ORD0262,22-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Bakery,Fortune,106,5,100.7,5,503.5,345.93,157.57,Credit Card,28,5
+ORD0263,08-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Frozen Foods,Amul,277,5,263.15,1,263.15,189.07,74.08,UPI,10,4
+ORD0264,25-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Beverages,Tata,250,20,200,3,600,473.15,126.85,Credit Card,20,4.4
+ORD0265,03-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Frozen Foods,Nestle,117,25,87.75,1,87.75,60.75,27,Debit Card,22,4.9
+ORD0266,06-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Frozen Foods,Amul,53,15,45.05,8,360.4,258.32,102.08,Cash,40,4.6
+ORD0267,09-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Snacks,Amul,246,15,209.1,2,418.2,313.65,104.55,UPI,15,4.7
+ORD0268,02-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Dairy,Parle,374,5,355.3,6,2131.8,1723.31,408.49,Credit Card,40,4.2
+ORD0269,30-06-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Household,MDH,229,25,171.75,7,1202.25,861.88,340.37,Credit Card,15,4.8
+ORD0270,21-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Bakery,MDH,127,10,114.3,4,457.2,297.84,159.36,Debit Card,30,4.7
+ORD0271,20-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Household,Tata,350,5,332.5,3,997.5,708.52,288.98,Cash,30,4.9
+ORD0272,02-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Bakery,Tata,141,15,119.85,6,719.1,609.43,109.67,Debit Card,20,4.9
+ORD0273,10-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Beverages,Amul,181,25,135.75,1,135.75,108.83,26.92,Cash,8,4.3
+ORD0274,15-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Fruits,Tata,358,15,304.3,2,608.6,419.53,189.07,UPI,30,4.2
+ORD0275,04-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Household,Amul,52,10,46.8,5,234,177.23,56.77,Cash,20,4.2
+ORD0276,28-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Fruits,Aashirvaad,382,20,305.6,7,2139.2,1651.37,487.83,UPI,10,4.6
+ORD0277,29-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Fruits,Nestle,447,20,357.6,7,2503.2,1755.75,747.45,Credit Card,8,4.3
+ORD0278,06-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Dairy,Nestle,130,5,123.5,1,123.5,84.13,39.37,Credit Card,22,4.2
+ORD0279,04-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Household,Britannia,493,25,369.75,3,1109.25,866.85,242.4,Credit Card,40,4.4
+ORD0280,03-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Fortune,447,15,379.95,8,3039.6,2315.75,723.85,Credit Card,8,4.5
+ORD0281,28-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Dairy,Amul,385,15,327.25,3,981.75,832.43,149.32,Cash,10,3.9
+ORD0282,05-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Snacks,Fortune,154,25,115.5,3,346.5,243.18,103.32,Cash,28,3.8
+ORD0283,30-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Frozen Foods,Britannia,276,20,220.8,4,883.2,686.45,196.75,Credit Card,8,3.9
+ORD0284,25-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Bakery,Aashirvaad,83,20,66.4,6,398.4,263.74,134.66,Cash,8,4.1
+ORD0285,22-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Bakery,Parle,413,20,330.4,4,1321.6,920.2,401.4,Credit Card,25,4.1
+ORD0286,10-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Grocery,Parle,454,10,408.6,8,3268.8,2688.96,579.84,UPI,20,3.8
+ORD0287,14-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Household,Amul,132,15,112.2,8,897.6,621.51,276.09,Debit Card,12,4.3
+ORD0288,03-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Grocery,Fortune,202,5,191.9,2,383.8,261.13,122.67,Credit Card,10,4.7
+ORD0289,14-06-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Bakery,Nestle,399,20,319.2,2,638.4,467.85,170.55,UPI,30,4.1
+ORD0290,28-06-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Fruits,Amul,69,10,62.1,4,248.4,190.02,58.38,Credit Card,10,4.9
+ORD0291,27-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Snacks,Tata,299,10,269.1,7,1883.7,1225.37,658.33,Credit Card,25,4.9
+ORD0292,11-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Snacks,Amul,228,10,205.2,4,820.8,653.59,167.21,Credit Card,18,3.9
+ORD0293,23-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Grocery,Amul,150,25,112.5,1,112.5,82.31,30.19,Credit Card,40,3.8
+ORD0294,10-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Bakery,Nestle,328,15,278.8,6,1672.8,1318.26,354.54,Debit Card,22,5
+ORD0295,12-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Small,Beverages,Parle,439,20,351.2,7,2458.4,1993.15,465.25,Debit Card,15,4.8
+ORD0296,13-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Household,MDH,94,25,70.5,1,70.5,58.64,11.86,Credit Card,25,5
+ORD0297,08-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Bakery,Nestle,292,20,233.6,6,1401.6,1077.07,324.53,UPI,22,5
+ORD0298,20-05-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Beverages,Parle,363,15,308.55,2,617.1,478.73,138.37,Credit Card,25,4.8
+ORD0299,06-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,Britannia,317,25,237.75,8,1902,1453.4,448.6,Cash,20,4.1
+ORD0300,16-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Household,Aashirvaad,128,20,102.4,3,307.2,239.03,68.17,Credit Card,22,3.9
+ORD0301,02-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Grocery,MDH,409,15,347.65,7,2433.55,1631.84,801.71,UPI,18,4.3
+ORD0302,14-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Snacks,Amul,405,5,384.75,8,3078,2391.38,686.62,Cash,20,4.4
+ORD0303,06-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Amul,368,15,312.8,6,1876.8,1520.79,356.01,Credit Card,8,4.5
+ORD0304,07-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Grocery,MDH,417,25,312.75,5,1563.75,1303.21,260.54,UPI,28,4.6
+ORD0305,16-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Household,Amul,153,10,137.7,7,963.9,811.29,152.61,Debit Card,22,4.2
+ORD0306,09-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Snacks,Britannia,258,20,206.4,5,1032,743.53,288.47,Credit Card,10,4.6
+ORD0307,08-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Bakery,MDH,490,5,465.5,2,931,745.92,185.08,UPI,10,4.5
+ORD0308,15-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Frozen Foods,Aashirvaad,286,20,228.8,7,1601.6,1359.74,241.86,Debit Card,12,4.4
+ORD0309,11-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Nestle,393,10,353.7,4,1414.8,1033.28,381.52,Debit Card,25,3.9
+ORD0310,23-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Frozen Foods,Amul,484,5,459.8,1,459.8,308.22,151.58,Cash,40,4.2
+ORD0311,13-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Snacks,Nestle,331,20,264.8,3,794.4,674.94,119.46,Credit Card,15,4.4
+ORD0312,23-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Bakery,Parle,145,25,108.75,5,543.75,409.99,133.76,Credit Card,28,4.3
+ORD0313,08-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Grocery,Parle,398,5,378.1,5,1890.5,1343.95,546.55,Cash,12,3.9
+ORD0314,30-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Household,Nestle,383,15,325.55,8,2604.4,2034.72,569.68,Cash,25,4.9
+ORD0315,18-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Household,Amul,389,5,369.55,6,2217.3,1445.02,772.28,Credit Card,15,4.8
+ORD0316,24-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Beverages,Amul,152,10,136.8,8,1094.4,800.23,294.17,Cash,22,4.8
+ORD0317,08-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Fruits,Fortune,75,10,67.5,2,135,109.74,25.26,Debit Card,15,4.6
+ORD0318,22-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Dairy,MDH,460,10,414,3,1242,843.51,398.49,UPI,15,4.7
+ORD0319,24-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Bakery,Fortune,262,10,235.8,5,1179,932.87,246.13,UPI,40,4
+ORD0320,30-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Snacks,Parle,478,20,382.4,5,1912,1532.72,379.28,Credit Card,20,4.5
+ORD0321,25-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Snacks,Parle,127,10,114.3,7,800.1,675.95,124.15,Cash,35,4.5
+ORD0322,21-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Bakery,Tata,151,20,120.8,3,362.4,288.34,74.06,UPI,20,3.9
+ORD0323,31-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Frozen Foods,Tata,385,25,288.75,2,577.5,408.96,168.54,Cash,25,4.1
+ORD0324,01-05-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Beverages,Parle,356,25,267,2,534,368.6,165.4,UPI,30,4.5
+ORD0325,13-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Household,Nestle,226,10,203.4,3,610.2,476.75,133.45,Debit Card,25,4.1
+ORD0326,24-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Dairy,Tata,141,5,133.95,5,669.75,543.7,126.05,Cash,30,4.3
+ORD0327,28-06-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Bakery,Nestle,67,5,63.65,2,127.3,93.26,34.04,UPI,20,4.7
+ORD0328,15-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Grocery,Fortune,234,10,210.6,2,421.2,301.72,119.48,Credit Card,10,3.9
+ORD0329,19-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Household,MDH,109,10,98.1,8,784.8,552.57,232.23,Cash,12,4.5
+ORD0330,14-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Beverages,Fortune,309,15,262.65,6,1575.9,1323.57,252.33,Cash,40,4.8
+ORD0331,14-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Beverages,Britannia,172,5,163.4,1,163.4,109.67,53.73,UPI,12,4
+ORD0332,29-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Dairy,Tata,65,20,52,7,364,282.04,81.96,Cash,15,4.1
+ORD0333,28-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Fruits,Britannia,413,5,392.35,4,1569.4,1043.04,526.36,Cash,18,4.2
+ORD0334,16-04-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Fruits,Tata,353,10,317.7,1,317.7,226.68,91.02,Cash,12,4.7
+ORD0335,26-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Household,Tata,127,15,107.95,3,323.85,223.7,100.15,UPI,25,3.8
+ORD0336,12-06-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Beverages,Amul,448,15,380.8,2,761.6,609.5,152.1,Credit Card,22,3.9
+ORD0337,08-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Grocery,Parle,348,10,313.2,8,2505.6,1965.75,539.85,UPI,40,4.4
+ORD0338,12-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Dairy,Tata,134,20,107.2,7,750.4,611.6,138.8,Credit Card,15,4.1
+ORD0339,28-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Fruits,Aashirvaad,284,25,213,4,852,703.34,148.66,Debit Card,35,4.6
+ORD0340,28-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Household,Aashirvaad,472,20,377.6,7,2643.2,2219.29,423.91,Credit Card,8,4.2
+ORD0341,04-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Frozen Foods,Fortune,58,5,55.1,8,440.8,323.43,117.37,Credit Card,28,4.1
+ORD0342,23-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Snacks,MDH,251,20,200.8,1,200.8,142.25,58.55,Debit Card,35,4.4
+ORD0343,17-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Grocery,Nestle,111,10,99.9,1,99.9,72.44,27.46,Cash,20,4
+ORD0344,23-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Beverages,Fortune,467,25,350.25,7,2451.75,1744.94,706.81,Debit Card,28,3.8
+ORD0345,18-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Household,Tata,103,10,92.7,8,741.6,565.88,175.72,Debit Card,12,4.9
+ORD0346,26-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Grocery,Parle,391,20,312.8,2,625.6,470.99,154.61,Credit Card,18,4.6
+ORD0347,27-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Small,Fruits,Tata,317,5,301.15,8,2409.2,1803.69,605.51,Debit Card,25,4.2
+ORD0348,25-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Snacks,Amul,127,25,95.25,8,762,500.65,261.35,Credit Card,12,4
+ORD0349,31-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Grocery,Britannia,310,5,294.5,7,2061.5,1411.54,649.96,Credit Card,28,3.8
+ORD0350,03-04-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,High,Grocery,Nestle,258,5,245.1,7,1715.7,1284.37,431.33,Cash,30,4.4
+ORD0351,21-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Fruits,Fortune,456,25,342,6,2052,1700.58,351.42,Credit Card,40,4.4
+ORD0352,03-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Snacks,Parle,77,25,57.75,5,288.75,243.79,44.96,Credit Card,25,4
+ORD0353,03-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Household,Aashirvaad,274,20,219.2,2,438.4,344.72,93.68,Debit Card,18,3.9
+ORD0354,22-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Snacks,Parle,280,25,210,7,1470,1142.81,327.19,Debit Card,35,4.5
+ORD0355,12-04-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Grocery,Tata,435,5,413.25,5,2066.25,1504.91,561.34,Credit Card,25,4.7
+ORD0356,03-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Beverages,Tata,322,25,241.5,5,1207.5,870.28,337.22,UPI,30,4.6
+ORD0357,15-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Dairy,Aashirvaad,477,5,453.15,5,2265.75,1547.92,717.83,Debit Card,40,4.8
+ORD0358,17-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Snacks,Aashirvaad,250,20,200,6,1200,863.93,336.07,Credit Card,12,4.1
+ORD0359,20-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Bakery,Aashirvaad,261,5,247.95,1,247.95,203.41,44.54,Cash,30,4.7
+ORD0360,14-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Bakery,Parle,127,10,114.3,4,457.2,342.95,114.25,Cash,35,4.6
+ORD0361,04-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Grocery,Britannia,363,15,308.55,2,617.1,496.34,120.76,Cash,18,3.9
+ORD0362,13-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Dairy,Nestle,460,5,437,6,2622,1716.53,905.47,Cash,8,4.3
+ORD0363,01-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Fruits,Amul,278,15,236.3,1,236.3,199.78,36.52,Debit Card,10,4.4
+ORD0364,28-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Beverages,Parle,372,15,316.2,6,1897.2,1434.55,462.65,UPI,15,4.7
+ORD0365,17-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Tata,465,25,348.75,5,1743.75,1281.28,462.47,UPI,22,4.3
+ORD0366,17-05-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Grocery,Tata,259,10,233.1,1,233.1,189.01,44.09,Debit Card,30,4
+ORD0367,07-06-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Dairy,Aashirvaad,399,25,299.25,8,2394,1647.42,746.58,Cash,18,4.7
+ORD0368,20-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Beverages,Parle,426,25,319.5,1,319.5,235.7,83.8,Cash,28,4.7
+ORD0369,22-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Medium,Fruits,Parle,432,5,410.4,1,410.4,271.91,138.49,Credit Card,35,4
+ORD0370,14-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Household,Aashirvaad,231,15,196.35,2,392.7,258.73,133.97,UPI,40,4.3
+ORD0371,01-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Dairy,Nestle,225,5,213.75,3,641.25,463.48,177.77,Credit Card,25,4.9
+ORD0372,23-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Grocery,Amul,485,5,460.75,5,2303.75,1731.47,572.28,Cash,40,4.1
+ORD0373,22-04-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Snacks,Amul,273,20,218.4,3,655.2,532.27,122.93,UPI,15,4.7
+ORD0374,23-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Fruits,Britannia,244,5,231.8,1,231.8,188.37,43.43,UPI,20,4.2
+ORD0375,22-02-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Bakery,Tata,286,20,228.8,4,915.2,596.22,318.98,UPI,30,4.9
+ORD0376,26-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Fruits,MDH,275,20,220,8,1760,1412.12,347.88,Cash,22,4.6
+ORD0377,31-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Bakery,Tata,417,20,333.6,8,2668.8,2058.12,610.68,Cash,15,3.8
+ORD0378,21-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Fruits,MDH,453,10,407.7,1,407.7,284.79,122.91,UPI,22,4.1
+ORD0379,09-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Fruits,MDH,446,5,423.7,7,2965.9,2083.81,882.09,UPI,40,3.9
+ORD0380,24-03-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Bakery,Amul,463,25,347.25,3,1041.75,805.46,236.29,UPI,8,4.5
+ORD0381,19-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Grocery,MDH,307,25,230.25,2,460.5,364.34,96.16,Debit Card,35,3.8
+ORD0382,16-06-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Beverages,Aashirvaad,62,10,55.8,8,446.4,308.8,137.6,UPI,30,5
+ORD0383,03-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Dairy,Nestle,316,15,268.6,2,537.2,358.62,178.58,Credit Card,18,4.2
+ORD0384,02-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Dairy,Amul,125,20,100,6,600,482.25,117.75,UPI,35,4.6
+ORD0385,15-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Beverages,Tata,159,25,119.25,7,834.75,618.65,216.1,UPI,8,4.7
+ORD0386,15-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Grocery,MDH,393,10,353.7,7,2475.9,2006.04,469.86,Credit Card,40,4
+ORD0387,25-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Frozen Foods,Fortune,483,15,410.55,1,410.55,293.5,117.05,Debit Card,30,4.8
+ORD0388,06-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Beverages,Nestle,190,10,171,1,171,125.25,45.75,Credit Card,8,4.7
+ORD0389,22-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Household,Nestle,225,5,213.75,3,641.25,430.26,210.99,UPI,28,3.9
+ORD0390,18-05-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Bakery,Tata,132,10,118.8,1,118.8,92.66,26.14,Cash,15,4.1
+ORD0391,15-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Frozen Foods,Fortune,415,15,352.75,7,2469.25,1958.51,510.74,Credit Card,22,4.1
+ORD0392,08-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Snacks,Tata,64,5,60.8,4,243.2,189.26,53.94,UPI,40,4.3
+ORD0393,20-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Dairy,MDH,82,5,77.9,1,77.9,51.78,26.12,Credit Card,25,4
+ORD0394,26-06-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Frozen Foods,Tata,180,15,153,7,1071,783.75,287.25,Debit Card,20,4.2
+ORD0395,23-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Household,Parle,65,20,52,4,208,139.63,68.37,UPI,15,3.9
+ORD0396,16-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Snacks,MDH,130,25,97.5,5,487.5,381.34,106.16,UPI,8,4.3
+ORD0397,17-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Grocery,Fortune,341,25,255.75,4,1023,677.65,345.35,Credit Card,20,4.5
+ORD0398,12-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Dairy,Britannia,120,15,102,5,510,369.29,140.71,Cash,18,4.7
+ORD0399,04-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Frozen Foods,Parle,164,10,147.6,4,590.4,473.81,116.59,UPI,8,3.9
+ORD0400,01-05-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Frozen Foods,Tata,478,15,406.3,4,1625.2,1147.99,477.21,UPI,25,4.5
+ORD0401,14-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Small,Bakery,MDH,97,20,77.6,2,155.2,115.93,39.27,UPI,10,4
+ORD0402,28-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Fruits,Tata,234,20,187.2,8,1497.6,1045.05,452.55,Cash,25,4.7
+ORD0403,21-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Fruits,Britannia,362,20,289.6,2,579.2,383.42,195.78,Cash,28,4.8
+ORD0404,28-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Snacks,Tata,101,5,95.95,8,767.6,539.67,227.93,Debit Card,35,4.2
+ORD0405,02-05-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Grocery,Fortune,193,15,164.05,2,328.1,221.12,106.98,UPI,35,4.6
+ORD0406,01-03-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Snacks,Nestle,62,20,49.6,1,49.6,37.57,12.03,Cash,22,4.8
+ORD0407,16-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Beverages,Amul,429,5,407.55,6,2445.3,1910.49,534.81,Debit Card,40,3.9
+ORD0408,05-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Grocery,Nestle,485,5,460.75,5,2303.75,1699.71,604.04,Cash,10,4.3
+ORD0409,03-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Frozen Foods,Britannia,56,15,47.6,8,380.8,265.27,115.53,Cash,15,4.8
+ORD0410,24-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Bakery,Fortune,208,20,166.4,5,832,578.45,253.55,Credit Card,22,4.6
+ORD0411,01-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Grocery,MDH,341,15,289.85,3,869.55,606.67,262.88,Debit Card,28,4.5
+ORD0412,12-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Snacks,Fortune,120,15,102,4,408,311.07,96.93,Cash,30,4.2
+ORD0413,30-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Bakery,Parle,135,10,121.5,7,850.5,581.32,269.18,Cash,12,4.9
+ORD0414,27-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Grocery,Tata,414,20,331.2,2,662.4,437.39,225.01,Credit Card,12,4.8
+ORD0415,19-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Dairy,MDH,87,25,65.25,7,456.75,374.43,82.32,Cash,25,4.6
+ORD0416,01-06-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Bakery,Fortune,398,15,338.3,4,1353.2,997.58,355.62,Credit Card,35,4.1
+ORD0417,15-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Frozen Foods,Britannia,318,15,270.3,2,540.6,427.19,113.41,Credit Card,8,4.3
+ORD0418,01-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Dairy,Britannia,397,10,357.3,8,2858.4,2405.91,452.49,Debit Card,22,5
+ORD0419,04-04-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Britannia,239,15,203.15,7,1422.05,1112.99,309.06,Credit Card,10,3.8
+ORD0420,01-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Frozen Foods,Nestle,257,25,192.75,7,1349.25,1051.43,297.82,Credit Card,20,4.6
+ORD0421,23-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Snacks,Aashirvaad,211,10,189.9,8,1519.2,1198.08,321.12,Credit Card,10,5
+ORD0422,30-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Beverages,Nestle,477,25,357.75,4,1431,1111.77,319.23,Credit Card,35,4.1
+ORD0423,04-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Bakery,Parle,357,20,285.6,1,285.6,196.97,88.63,UPI,10,4.8
+ORD0424,14-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Beverages,Amul,93,10,83.7,1,83.7,57.31,26.39,UPI,10,3.9
+ORD0425,14-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Household,Parle,151,10,135.9,8,1087.2,779.6,307.6,Debit Card,40,4.4
+ORD0426,09-03-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Dairy,Amul,220,5,209,2,418,293.77,124.23,Credit Card,12,4.8
+ORD0427,04-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Fruits,Fortune,224,25,168,8,1344,911.52,432.48,Debit Card,22,4.2
+ORD0428,25-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Small,Snacks,Britannia,167,15,141.95,2,283.9,230.07,53.83,Debit Card,25,4.7
+ORD0429,05-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Britannia,368,5,349.6,8,2796.8,2133.97,662.83,UPI,35,4.3
+ORD0430,08-01-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Fruits,Britannia,306,20,244.8,6,1468.8,1167.53,301.27,Credit Card,15,4.6
+ORD0431,21-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Grocery,Fortune,364,10,327.6,3,982.8,679.04,303.76,Cash,8,4.1
+ORD0432,20-03-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,Tata,473,15,402.05,7,2814.35,2006.89,807.46,Credit Card,8,4.2
+ORD0433,20-02-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Medium,Dairy,Nestle,127,10,114.3,4,457.2,339.4,117.8,Debit Card,28,4.2
+ORD0434,18-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Beverages,MDH,104,5,98.8,7,691.6,510.03,181.57,Credit Card,25,4.9
+ORD0435,22-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Fruits,Tata,444,15,377.4,8,3019.2,2433.33,585.87,Debit Card,10,4.6
+ORD0436,25-06-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Fruits,Parle,118,5,112.1,3,336.3,222.85,113.45,UPI,35,4.7
+ORD0437,25-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Fruits,Amul,316,5,300.2,3,900.6,656.33,244.27,Credit Card,35,4
+ORD0438,17-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Bakery,Fortune,408,5,387.6,6,2325.6,1587.91,737.69,Cash,12,4.3
+ORD0439,04-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Dairy,Tata,412,15,350.2,6,2101.2,1417.58,683.62,Credit Card,40,4.9
+ORD0440,15-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Bakery,Britannia,292,10,262.8,3,788.4,607.71,180.69,Cash,40,4
+ORD0441,08-01-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Frozen Foods,Fortune,104,25,78,6,468,379.28,88.72,Credit Card,20,4
+ORD0442,01-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Household,Amul,399,10,359.1,7,2513.7,1662.25,851.45,Credit Card,30,3.8
+ORD0443,10-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Grocery,Nestle,217,10,195.3,6,1171.8,953.59,218.21,Credit Card,22,4.3
+ORD0444,26-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Fruits,Fortune,166,5,157.7,7,1103.9,884.51,219.39,Cash,18,4.1
+ORD0445,19-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Household,Amul,244,20,195.2,5,976,660.48,315.52,Credit Card,12,4.8
+ORD0446,21-05-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Household,MDH,488,25,366,1,366,295.99,70.01,Debit Card,40,4.8
+ORD0447,26-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Household,Amul,423,15,359.55,6,2157.3,1509.83,647.47,UPI,15,4.2
+ORD0448,29-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Bakery,Parle,84,20,67.2,1,67.2,46.35,20.85,Debit Card,22,4.2
+ORD0449,21-03-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,High,Household,Tata,290,15,246.5,6,1479,1178.39,300.61,UPI,25,4.3
+ORD0450,19-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Dairy,Amul,500,10,450,4,1800,1245.03,554.97,Debit Card,30,4.5
+ORD0451,17-02-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Nestle,417,10,375.3,7,2627.1,2232.37,394.73,UPI,15,4.8
+ORD0452,21-04-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Bakery,Tata,460,5,437,4,1748,1264.41,483.59,Debit Card,15,4.2
+ORD0453,09-05-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Snacks,Aashirvaad,313,10,281.7,8,2253.6,1711.32,542.28,Cash,12,3.8
+ORD0454,15-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Fruits,Britannia,500,5,475,6,2850,1882.95,967.05,Debit Card,12,4.5
+ORD0455,04-06-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Grocery,Parle,128,20,102.4,1,102.4,75.24,27.16,Cash,22,4.1
+ORD0456,12-02-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Beverages,Parle,77,5,73.15,1,73.15,59.29,13.86,Cash,28,4.8
+ORD0457,29-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Frozen Foods,Britannia,358,10,322.2,4,1288.8,1089.3,199.5,Credit Card,22,4.9
+ORD0458,18-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Bakery,Fortune,300,5,285,8,2280,1878.38,401.62,Credit Card,25,4
+ORD0459,04-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Beverages,Fortune,328,15,278.8,7,1951.6,1567.75,383.85,Debit Card,20,4.5
+ORD0460,06-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Household,Tata,208,10,187.2,4,748.8,553.44,195.36,Credit Card,12,4.3
+ORD0461,12-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,Medium,Beverages,MDH,443,25,332.25,8,2658,1979.18,678.82,Cash,28,4
+ORD0462,01-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Bakery,Nestle,230,20,184,2,368,268.89,99.11,Credit Card,40,4.6
+ORD0463,27-05-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Fruits,Amul,380,10,342,8,2736,2251.37,484.63,Debit Card,20,4.4
+ORD0464,17-06-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Fruits,Fortune,271,25,203.25,5,1016.25,692.36,323.89,Credit Card,35,4.8
+ORD0465,10-02-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Bakery,Fortune,352,25,264,4,1056,758.22,297.78,Credit Card,10,4
+ORD0466,12-03-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Fruits,Nestle,365,15,310.25,8,2482,1832.12,649.88,Credit Card,35,4.9
+ORD0467,25-05-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Fruits,Nestle,220,15,187,7,1309,1010.47,298.53,Debit Card,10,4.2
+ORD0468,07-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Bakery,Amul,56,15,47.6,6,285.6,202.09,83.51,UPI,15,4.1
+ORD0469,22-04-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Medium,Dairy,Tata,125,15,106.25,4,425,294.89,130.11,Cash,28,4.5
+ORD0470,11-01-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Frozen Foods,Aashirvaad,445,10,400.5,7,2803.5,2291.88,511.62,Debit Card,10,4.6
+ORD0471,15-01-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Dairy,Amul,355,10,319.5,5,1597.5,1050.55,546.95,UPI,20,4.6
+ORD0472,20-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,High,Household,Britannia,107,20,85.6,3,256.8,172.42,84.38,Credit Card,10,5
+ORD0473,01-03-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Fruits,Fortune,216,20,172.8,7,1209.6,847.52,362.08,Cash,12,4.9
+ORD0474,24-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Frozen Foods,Amul,370,5,351.5,8,2812,2125.99,686.01,Debit Card,25,4.9
+ORD0475,07-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Snacks,MDH,374,15,317.9,7,2225.3,1674.03,551.27,Cash,40,4.3
+ORD0476,03-04-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,Medium,Beverages,Aashirvaad,306,25,229.5,1,229.5,187.94,41.56,Debit Card,20,5
+ORD0477,18-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Medium,Beverages,Amul,364,10,327.6,6,1965.6,1629.5,336.1,Credit Card,20,4.6
+ORD0478,20-05-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Grocery,Tata,184,25,138,6,828,564.44,263.56,Debit Card,8,4
+ORD0479,20-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,High,Fruits,Tata,343,20,274.4,5,1372,1052.74,319.26,Cash,10,4.3
+ORD0480,07-03-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Frozen Foods,Nestle,360,20,288,8,2304,1904.3,399.7,UPI,8,4.4
+ORD0481,05-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Bakery,Parle,159,5,151.05,5,755.25,532.89,222.36,Debit Card,35,4.8
+ORD0482,07-02-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,High,Grocery,Amul,399,20,319.2,2,638.4,420.88,217.52,Cash,20,4.6
+ORD0483,09-01-2026,Mumbai,Powai,OUT007,Blinkit Powai,Tier 1,Medium,Frozen Foods,Amul,489,10,440.1,5,2200.5,1788.98,411.52,UPI,10,4.8
+ORD0484,21-01-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Grocery,Nestle,160,20,128,8,1024,845.02,178.98,Cash,12,4.6
+ORD0485,11-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Small,Frozen Foods,Britannia,380,10,342,5,1710,1226.53,483.47,Credit Card,18,4.9
+ORD0486,17-01-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,High,Bakery,MDH,132,25,99,5,495,417.89,77.11,Cash,10,4.3
+ORD0487,01-03-2026,Mumbai,Bandra,OUT008,Blinkit Bandra,Tier 1,High,Frozen Foods,MDH,462,15,392.7,1,392.7,313.75,78.95,Cash,18,4
+ORD0488,05-02-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Frozen Foods,MDH,333,15,283.05,7,1981.35,1640.34,341.01,Credit Card,30,4.2
+ORD0489,25-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Medium,Bakery,Tata,304,25,228,6,1368,933.56,434.44,Cash,25,4.5
+ORD0490,08-01-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Medium,Beverages,MDH,247,25,185.25,3,555.75,396.12,159.63,UPI,18,4.3
+ORD0491,12-06-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,Small,Snacks,Nestle,338,15,287.3,8,2298.4,1930.38,368.02,Cash,30,4
+ORD0492,23-02-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,High,Dairy,Britannia,413,10,371.7,2,743.4,545.73,197.67,UPI,15,4.6
+ORD0493,20-04-2026,Mumbai,Vile Parle,OUT005,Blinkit Vile Parle,Tier 1,Small,Grocery,Nestle,101,10,90.9,1,90.9,63.93,26.97,UPI,28,4.3
+ORD0494,15-02-2026,Mumbai,Kandivali,OUT010,Blinkit Kandivali,Tier 1,Small,Dairy,Britannia,322,10,289.8,1,289.8,221.59,68.21,UPI,18,4.5
+ORD0495,07-01-2026,Mumbai,Malad,OUT009,Blinkit Malad,Tier 1,Small,Bakery,Tata,215,20,172,7,1204,1021.63,182.37,Credit Card,28,4
+ORD0496,20-04-2026,Mumbai,Santacruz,OUT006,Blinkit Santacruz,Tier 1,High,Bakery,Fortune,495,5,470.25,1,470.25,399.14,71.11,Credit Card,40,4.2
+ORD0497,11-02-2026,Mumbai,Jogeshwari,OUT003,Blinkit Jogeshwari,Tier 1,Small,Snacks,Fortune,233,15,198.05,5,990.25,751.31,238.94,UPI,30,4.8
+ORD0498,16-04-2026,Mumbai,Andheri West,OUT002,Blinkit Andheri West,Tier 1,Medium,Fruits,Amul,131,15,111.35,2,222.7,169.72,52.98,Cash,22,4
+ORD0499,03-05-2026,Mumbai,Andheri East,OUT001,Blinkit Andheri East,Tier 1,High,Bakery,Aashirvaad,173,15,147.05,4,588.2,473.34,114.86,Credit Card,25,4.7
+ORD0500,03-03-2026,Mumbai,Goregaon,OUT004,Blinkit Goregaon,Tier 1,Small,Snacks,Britannia,393,5,373.35,8,2986.8,2531.49,455.31,UPI,18,3.9
